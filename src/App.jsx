@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import './index.css'
 
-import Logo from '../src/assets/investment-calculator-logo.png'
 import { Table } from './components/Table/Table.component'
 import { Header } from './components/Header/Header.component'
 import { Calculator } from './components/Calculator/Calculator.component'
